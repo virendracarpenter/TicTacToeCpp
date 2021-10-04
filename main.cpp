@@ -1,3 +1,6 @@
+// Main.cpp
+// A basic Tic Tac Toe Game Written in C++ Language
+// compile this three files at the same time "main.cpp", "TicTacToeClasses.cpp", "TicTacToeFunctions.cpp"
 #include "TicTacToeClasses.cpp"
 #include "TicTacToeFunctions.cpp"
 
