@@ -11,4 +11,4 @@ Basic Tic Tac Toe Game made in C++
 
 > g++ *.cpp && ./a.out 
 
-% help to get more better this 
+Keep contributing. 
